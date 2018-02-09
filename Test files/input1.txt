@@ -1,0 +1,5 @@
+Putting the value in square brackets makes a list with one item, just as multiple values makes a list with multiple items. The only container which does not follow this pattern is the tuple, as the round brackets are also used for grouping. In that case, just add a comma after the single item:
+
+Putting the value in square brackets makes a list with one item, just as multiple values makes a list with multiple items. The only container which does not follow this pattern is the tuple, as the round brackets are also used for grouping. In that case, just add a comma after the single item:
+
+Putting the value in square brackets makes a list with one item, just as multiple values makes a list with multiple items. The only container which does not follow this pattern is the tuple, as the round brackets are also used for grouping. In that case, just add a comma after the single item:
